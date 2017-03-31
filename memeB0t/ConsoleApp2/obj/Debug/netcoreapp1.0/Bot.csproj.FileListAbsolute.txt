@@ -1,0 +1,51 @@
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.deps.json
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.runtimeconfig.json
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.runtimeconfig.dev.json
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.pdb
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.Audio.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.Commands.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Context.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Coordination.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Interop.WaitHandles.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Oop.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Tasks.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.csprojResolveAssemblyReference.cache
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.AssemblyInfo.cs
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.dll
+c:/users/cxmu/documents/visual studio 2017/Projects/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.pdb
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.deps.json
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.runtimeconfig.json
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.runtimeconfig.dev.json
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.pdb
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.Audio.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.Commands.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Context.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Coordination.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Oop.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Tasks.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.csprojResolveAssemblyReference.cache
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.AssemblyInfo.cs
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.dll
+/home/l61-h_5-k/Documents/ConsoleApp2/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.pdb
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.deps.json
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.runtimeconfig.json
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.runtimeconfig.dev.json
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Bot.pdb
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.Audio.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.Commands.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Discord.Net.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Context.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Coordination.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Oop.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/bin/Debug/netcoreapp1.0/Nito.AsyncEx.Tasks.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.csprojResolveAssemblyReference.cache
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.AssemblyInfo.cs
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.dll
+/home/l61-h_5-k/Documents/Bots/Eric-bot/ConsoleApp2/obj/Debug/netcoreapp1.0/Bot.pdb

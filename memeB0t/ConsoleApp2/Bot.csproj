@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.1-beta1" />
+    <PackageReference Include="Nito.Collections.Deque" Version="1.0.0" />
+    <PackageReference Include="Nito.Disposables" Version="1.1.0" />
+    <PackageReference Include="RestSharp.NetCore" Version="105.2.4-rc4-24214-01" />
+    <PackageReference Include="System.Net.WebSockets.Client" Version="4.3.0" />
+    <PackageReference Include="WebSocket4Net" Version="0.15.0-beta6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Discord.Net">
+      <HintPath>Discord.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Discord.Net.Audio">
+      <HintPath>Discord.Net.Audio.dll</HintPath>
+    </Reference>
+    <Reference Include="Discord.Net.Commands">
+      <HintPath>Discord.Net.Commands.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Context">
+      <HintPath>Nito.AsyncEx.Context.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Coordination">
+      <HintPath>Nito.AsyncEx.Coordination.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Interop.WaitHandles">
+      <HintPath>Nito.AsyncEx.Interop.WaitHandles.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Oop">
+      <HintPath>Nito.AsyncEx.Oop.dll</HintPath>
+    </Reference>
+    <Reference Include="Nito.AsyncEx.Tasks">
+      <HintPath>Nito.AsyncEx.Tasks.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
